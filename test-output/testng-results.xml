@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-05T16:54:43 COT" name="Suite" finished-at="2022-07-05T16:54:54 COT" duration-ms="11539">
+    <groups>
+    </groups>
+    <test started-at="2022-07-05T16:54:43 COT" name="Test" finished-at="2022-07-05T16:54:54 COT" duration-ms="11539">
+      <class name="test_cases.RahulAcademyTest">
+        <test-method signature="HomePageCheck()[pri:0, instance:test_cases.RahulAcademyTest@2f217633]" started-at="2022-07-05T16:54:43 COT" name="HomePageCheck" finished-at="2022-07-05T16:54:52 COT" duration-ms="9550" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePageCheck -->
+      </class> <!-- test_cases.RahulAcademyTest -->
+      <class name="test_cases.GoogleTest">
+        <test-method signature="HomePageCheck()[pri:0, instance:test_cases.GoogleTest@505fc5a4]" started-at="2022-07-05T16:54:43 COT" name="HomePageCheck" finished-at="2022-07-05T16:54:54 COT" duration-ms="11503" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePageCheck -->
+      </class> <!-- test_cases.GoogleTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
